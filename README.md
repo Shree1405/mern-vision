@@ -120,6 +120,6 @@ This project is licensed under the [MIT License](./LICENSE).
 ---
 
 Built by Shubaashree, Sri Sairam Engineering College — aspiring full-stack developer.
-Connect on [LinkedIn](https://www.linkedin.com/in/shubaashree/)
+Connect on [LinkedIn](www.linkedin.com/in/shubaashreesureshbabu)
 ```
 
