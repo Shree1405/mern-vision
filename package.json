@@ -1,0 +1,22 @@
+{
+  "name": "vision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend ",
+    "start":"npm run start --prefix backend"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shree1405/mern-vision.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shree1405/mern-vision/issues"
+  },
+  "homepage": "https://github.com/Shree1405/mern-vision#readme"
+}
